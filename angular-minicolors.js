@@ -66,7 +66,7 @@
 
         //init method
         var initMinicolors = function() {
-
+         // check if ngModel exist
           if (!ngModel) {
             return;
           }
